@@ -1,0 +1,24 @@
+.Benvenuti, .testimonianza{
+    box-sizing: border-box;
+}
+
+.Benvenuti{
+    width: 75%;
+    padding-right: 2em;
+}
+
+.Testimonianza{
+    width: 25%;
+}
+
+.testimonianza{
+    background-color: #ccc;
+    padding: 1em;
+}
+
+.testimonianza .cita{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1,4em;
+    display: block;
+}

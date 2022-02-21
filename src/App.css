@@ -1,0 +1,26 @@
+body{
+  font-family: 'open sans', sans-serif ;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.left{
+  float: left;
+}
+.right{
+  float: right;
+}
+
+.holder{
+  max-width: 960px;
+  margin: 0 auto;
+}
+.homeimg{
+  margin-bottom: 1.5em;
+}
+
+h2{
+  font-weight: 400;
+  margin: 0 0 1em;
+  color: rgb(0, 0, 0);
+}
